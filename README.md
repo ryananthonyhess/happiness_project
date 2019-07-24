@@ -7,7 +7,7 @@ Code Louisville Python/SQL Project for Summer 2019
 
 World Happiness Analysis & Prediction
 
-One of my goals for this project was to analyze happiness reports from 2015 to 2017 and, based on the changes in those sets of data, create visualizations to help me make general predictions for 2019.  I realize this is a difficult if not nearly impossible prediction to make given the limited data as well as its scope but I will try to make an educated guess based on my analysis. I’m curious to see the impact perceived freedoms have on the overall happiness score as well. 
+One of my goals for this project was to analyze happiness reports from 2015 to 2017 and, based on the changes in those sets of data, create visualizations to help me make general predictions for 2019.  I realize this is a difficult if not nearly impossible prediction to make given the limited data as well as its scope but I will try to make an educated guess based on my analysis. I’m curious to see the impact perceived freedoms have on the overall happiness score as well. I will be using a seaborn heatmap to determine the correlation and a seaborn point plot to attempt to visualize any trend in happiness.
 As this class was my first introduction to Python, SQL, and data science in general, my main goal was to utilize what I’d learned in the treehouse videos and fulfill the project requirements.
 
 
